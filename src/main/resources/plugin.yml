@@ -1,0 +1,7 @@
+name: LFF
+version: '${project.version}'
+main: me.qv7.lff.LFF
+authors: [ 7qv_ ]
+description: Complemento para HCF/Kitmap LFF Menu GUI
+commands:
+  lff:
